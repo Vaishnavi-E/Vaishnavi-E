@@ -1,0 +1,40 @@
+body{
+    background-image: url("imgback.png");
+    background-size: 100%;
+}
+.container
+{
+   
+    h2{
+        color: #828b00;
+    }
+    h3{
+        color:#8b0035;
+    }
+}
+.box:hover
+{
+    h2{
+    color: #07b43b;
+    font-size: large;
+    }
+
+}
+.box
+{
+   h2{ 
+    color: #8b0035;
+    font-size: large;
+   }
+    
+}
+.name:hover{
+    h1{
+        color: deeppink;
+    }
+}
+.head:hover{
+    h1{
+        color: coral;
+    }
+}
