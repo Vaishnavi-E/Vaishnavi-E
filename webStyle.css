@@ -1,0 +1,38 @@
+body{
+    background-image: url("pic.jpg");
+    background-size: 100%;
+}
+.hello{
+  
+        background-color:rgb(223, 72, 130);
+        padding: 15px;
+        text-align: center;
+   
+}
+.sub_menu {
+    background-color:#e97a80;
+    overflow:hidden;
+
+}
+.sub_menu a
+
+{
+    font-style:normal;
+    font-size: 22px;
+    float:left;
+    display: block;
+    color: rgb(70, 15, 221);
+    padding: 14px 15px;
+    text-align: center;
+    text-decoration: none;
+} 
+
+.sub_menu a:hover 
+{
+    color: rgb(21, 128, 0);
+
+
+}
+p{
+    margin-top: 50px;
+}
